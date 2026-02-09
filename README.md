@@ -1,16 +1,20 @@
-# food
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+🍽️ AI Unique Recipe App
+An intelligent food recipe mobile app built with Flutter + AI, designed to suggest recipes based on:
+✨ User mood
+🥕 Available ingredients
+💬 User questions about food
+🧠 Smart AI recommendations
+This app acts like a personal food assistant that helps users decide what to cook in a smart and healthy way.
+🚀 Key Features
+✅ AI-based recipe suggestions
+✅ Mood-based food recommendations (Happy, Sad, Tired, Energetic, etc.)
+✅ Ingredient matcher (shows what you can cook with what you have)
+✅ Missing ingredient detection
+✅ Food health benefits display
+✅ Calories & nutrition info
+✅ Recipe detail page with:
+Ingredients
+Cooking steps
+Video
+Health benefits
+Ratings ⭐
